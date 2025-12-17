@@ -43,7 +43,7 @@ You can contribute by:
 - Helping draft IG Notes, use cases, and analyses
 - Providing insights from industry, academia, or standards work
 
-The IG’s process is **open** and **collaborative**, and contributions from all backgrounds are welcome. As work items and deliverables are scoped, we will create dedicated branches, [project](https://github.com/orgs/w3c/projects/218/views/1) or repositories for collaborative discussion. 
+The IG’s process is **open** and **collaborative**, and contributions from all backgrounds are welcome. As work items and deliverables are scoped, This group will create dedicated branches, [projects](https://github.com/orgs/w3c/projects/218/views/1) or repositories for collaborative discussion. 
 
 
 
@@ -61,7 +61,7 @@ The group explores various topics that may lead to future standardization work o
 
 ### Workshop
 
-We will coordinate on the [AI Agents &amp; Web Browsers workshop](https://github.com/w3c/strategy/issues/507).
+This group will coordinate on the [AI Agents &amp; Web Browsers workshop](https://github.com/w3c/strategy/issues/507).
 
 ## Resources & Communication
 
