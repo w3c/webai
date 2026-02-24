@@ -67,7 +67,11 @@ This group will coordinate on the [AI Agents &amp; Web Browsers workshop](https:
 
 * **Public Mailing List:** [public-webai@w3.org](mailto:public-webai@w3.org) - The primary channel for announcements and broad discussions.
 
-  * [View the archive](https://lists.w3.org/Archives/Public/public-webai/)
+* **Calls:**
+  * [Calendar](https://www.w3.org/groups/ig/webai/calendar/)
+  * [Minutes](https://www.w3.org/services/meeting-minutes/webai/?num=100)
+
+
 * **W3C Tools Page:** All group tools (calendar, meetings, etc.) are listed here:
 
   * [https://www.w3.org/groups/ig/webai/tools/](https://www.w3.org/groups/ig/webai/tools/)
