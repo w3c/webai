@@ -89,7 +89,7 @@ To understand our scope and goals, please refer to:
 
 ---
 
-Timezones:
+## Timezones:
 
 * A: 2200 CET / 2100 BST / 2000 UTC / 1600 EST / 1300 PST / 0400 Singapore (next day) / 0600 AEST (next day)
 * B: 0800 CEST / 0700 BST / 0600 UTC / 0200 EDT / 2300 PDT (previous day) / 1400 Singapore / 1600 AEST
