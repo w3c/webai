@@ -91,24 +91,24 @@ To understand our scope and goals, please refer to:
 
 ## Timezones:
 
-* A: 2200 CET / 2100 BST / 2000 UTC / 1600 EST / 1300 PST / 0400 Singapore (next day) / 0600 AEST (next day)
-* B: 0800 CEST / 0700 BST / 0600 UTC / 0200 EDT / 2300 PDT (previous day) / 1400 Singapore / 1600 AEST
-* C: 1600 CEST / 1500 BST / 1400 UTC / 1000 EDT / 0700 PDT / 2200 Singapore / 0000 AEST
+To avoid confusion across regions, especially during daylight saving transitions in the US and Europe, the group uses two fixed UTC time slots:
 
-Meetings and Dates For 2026 (Tentative and Subject to Change):
+* A: Americas and Europe: 1600 UTC
+* B: Europe and Asia-Pacific: 0800 UTC
+
+Calls are held on the second Tuesday of each month to allow more chairs to participate.
+
+Upcoming Meetings and Dates For 2026 (Tentative and Subject to Change):
 
 | Month | Day | Timezone |
 | ---------------- | ------ | ------------- |
-| March | 9 | C |
-| April | 13 | A |
-| May | 11 | B |
-| June | 8 | C |
-| July | 13 | A |
-| August | 10 | B |
-| September | 14 | C |
+| July | 14 | A |
+| August | 11 | B |
+| September | 8 | A |
+| October | 13 | B |
 | October | 26-30 | TPAC |
-| November | 9 | A |
-| December | 14 | B |
+| November | 10 | A |
+| December | 8 | B |
 
 
 **We look forward to collaborating with you to explore the future of AI on the Web.**
