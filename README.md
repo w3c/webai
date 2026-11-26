@@ -20,6 +20,10 @@ Everyone who participates in the WebAI IG is expected to behave in accordance wi
 ## How to Get Involved & Contribute
 
 This GitHub repository is a central hub for our collaborative work. We welcome your input and participation.
+The main entry points are:
+- The [dasboard](https://github.com/orgs/w3c/projects/218/)
+- The list of [topics](https://github.com/w3c/webai/issues?q=is%3Aissue+state%3Aopen+label%3ATOPIC)
+
 
 ### Have a new idea, concern, or proposal related to AI & the Web?
 
